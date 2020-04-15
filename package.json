@@ -1,5 +1,5 @@
 {
-  "name": "nhnam/react-native-apple-authentication",
+  "name": "@nhnam/react-native-apple-authentication",
   "version": "0.2.3",
   "author": "Invertase <oss@invertase.io> (http://invertase.io)",
   "description": "A complete Apple Authentication services API for React Native iOS apps.",
